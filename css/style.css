@@ -243,7 +243,7 @@ body::-webkit-scrollbar-thumb{background-color:var(--blue-color);border-radius:6
 .elisc_tm_partners .partners_inner{width:100%;float:left;clear:both;overflow:hidden;border-radius:10px;margin-top:58px}
 .elisc_tm_partners ul{margin:-2px -10px -2px -2px;list-style-type:none;padding-top:2px;float:left;padding-left:2px;min-width:calc(100% + 12px)}
 .elisc_tm_partners ul li{margin:0;float:left;width:25%;border:2px solid #e7e7e7;text-align:center;height:180px;line-height:180px;position:relative;margin-top:-2px;margin-left:-2px;overflow:hidden}
-.elisc_tm_partners ul li img{max-width:88%;max-height:100px}
+.elisc_tm_partners ul li img{width:170px;height:auto}
 .elisc_tm_partners ul li .list_inner{width:100%;height:auto;clear:both;float:left;opacity:.8;-webkit-transition:all .3s ease;-moz-transition:all .3s ease;-ms-transition:all .3s ease;-o-transition:all .3s ease;transition:all .3s ease}
 .elisc_tm_partners ul li .list_inner:hover{opacity:1}
 .elisc_tm_testimonial_wrapper{width:100%;float:left;margin-bottom:120px}
@@ -611,7 +611,7 @@ body::-webkit-scrollbar-thumb{background-color:var(--blue-color);border-radius:6
 .tokyo_tm_info{width:100%;height:auto;clear:both;float:left}
 .tokyo_tm_info ul{margin:0;list-style-type:none}
 .tokyo_tm_info ul li{margin:0}
-.tokyo_tm_info ul li span:first-child{min-width:100px;float:left;margin-right:10px;font-weight:700;color:#000}
+.tokyo_tm_info ul li span:first-child{min-width:85px;float:left;margin-right:10px;font-weight:700;color:#000}
 .tokyo_tm_info ul li a{color:#767676;-webkit-transition:all .3s ease;-moz-transition:all .3s ease;-ms-transition:all .3s ease;-o-transition:all .3s ease;transition:all .3s ease}
 .tokyo_tm_info ul li a:hover{color:#000}
 .tokyo_tm_progressbox{width:100%;height:auto;clear:both;float:left;background-color:#fff;padding: 0px;}
