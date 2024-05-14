@@ -288,7 +288,7 @@ body::-webkit-scrollbar-thumb{background-color:var(--blue-color);border-radius:6
 .elisc_tm_news .list .title h3{color:#130f49;font-size:28px;font-weight:600;line-height:36px}
 .movingbox{position:fixed;width:250px;height:140px;background-repeat:no-repeat;background-size:cover;background-position:center;border-radius:5px;z-index:-1;opacity:0;visibility:hidden}
 .movingbox.opened{opacity:1;visibility:visible}
-.elisc_tm_contact{width:100%;min-height:100vh;float:left;background-color:#e9f9ff;padding-top:120px}
+.elisc_tm_contact{width:100%;min-height:60vh;float:left;background-color:#e9f9ff;padding-top:120px}
 .elisc_tm_contact .wrapper{width:100%;float:left;display:flex}
 .elisc_tm_contact .wrapper .left{width:50%;padding-right:50px}
 .elisc_tm_contact .wrapper .text{width:100%;float:left;margin-top:20px;margin-bottom:40px}
